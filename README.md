@@ -1,4 +1,4 @@
-# elixir-learnings
+# Elixir Learnings
 Things I learn writing Elixir
 
 ## How to write content
