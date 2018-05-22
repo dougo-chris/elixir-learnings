@@ -1,6 +1,4 @@
-=======
-# Elixir Learnings
-Things I learn writing Elixir
+_Things I learn writing Elixir_
 
 ## Components
 - **[Date & Time](attributes:date_time.md)**
