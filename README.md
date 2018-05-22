@@ -1,7 +1,7 @@
 _Things I learn writing Elixir_
 
 ## Components
-- **[Date & Time](attributes:date_time.md)**
+- **[Date & Time](attributes__date_time.md)**
 
 
 ## How to write content
@@ -17,5 +17,5 @@ Just write good content and the rest is easy
 
 #### Header 4
 
-[Mix Tasks](mix:tasks.md)
+[Mix Tasks](mix__tasks.md)
 ```
