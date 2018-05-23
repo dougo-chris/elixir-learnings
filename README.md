@@ -1,21 +1,21 @@
 _Things I learn writing Elixir_
 
-## Components
-- **[Date & Time](attributes__date_time.md)**
+## Setup
+```
+export ERL_AFLAGS="-kernel shell_history enabled"
 
+iex -S mix
 
-## How to write content
+IEx.Helpers.recompile()
+
 ```
 
-Just write good content and the rest is easy
+## Types & Modules
+- **[Date & Time]type__date_time.md)**
+- **[Enum](type__enum.md)**
 
-**Headline**
+## Packages
+- **[ETS](package__ets.md)**
 
-> mix deps.get
-
-### Header 3
-
-#### Header 4
-
-[Mix Tasks](mix__tasks.md)
-```
+## Web
+- **[Params](web__params.md)**
